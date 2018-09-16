@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='pythonpackagesample',
+setup(name='linear_congruences_riyadk',
       version='0.1',  # Development release
-      description='Python Packaging Starting Kit - Simple Structure to creater your own package - for training purposes!',
-      url='https://github.com/manoelgadi/pythonpackagesample',
-      author='Prof. Manoel Gadi',
-      author_email='mfalonso@faculty.ie.edu',
+      description='Method of linear congruences!',
+      url='https://github.com/Riyadkutabish',
+      author='Riyad Kutabish',
+      author_email='riyad.kutabish@student.ie.edu',
       license='MIT',
-          packages=['pythonpackagesample'],
+          packages=['linear_congruences_riyadk'],
       zip_safe=False)

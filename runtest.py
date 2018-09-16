@@ -1,5 +1,5 @@
-from pythonpackagesample import datareader_doc
+from linear_congruences_riyadk import linear_congruences
 
-print(help(datareader_doc))
+print(help(linear_congruences))
 
-print(datareader_doc())
+print(linear_congruences())
